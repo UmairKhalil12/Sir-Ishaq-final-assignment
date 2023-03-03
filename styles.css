@@ -1,0 +1,353 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    margin: 0%;
+   
+}
+
+
+/* -------- TOP SECTION -------------*/ 
+
+.background-color-upper-half{
+    background-color:#363543;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+/* ------ LEFT TOP SECTION ----------- */  
+
+.image-title{
+    width: 29%;
+    display: inline-block;
+    position: relative;
+    bottom: 15px;
+    margin: 2%;
+}
+
+.smiley{
+    width: 10%;
+    height: 10%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    display: inline;
+    list-style-type: none;
+
+}
+
+.title a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 8px;
+    text-align: center;
+    color: white;
+}
+
+/* ---------------NAV-BAR------------------- */ 
+
+.Navbar{
+    width: 40%;
+    display: inline-block;
+    /* border: 1px solid green; */
+
+}
+
+.Navbar ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+
+.Navbar li{
+    float: left;
+   
+}
+
+.Navbar a{
+    display: block;
+    text-decoration: none;
+    padding: 12px;
+    text-align: center;
+}
+
+.Navbar a:hover{
+    color: white;
+}
+
+/*  ---------RIGHT TOP SECTION --------------*/
+
+.right_top{
+    width: 25%;
+    display: inline-block;
+
+}
+
+.logos{
+    width: 6%;
+    height: 6%;
+    float: right;
+    padding: 10px;
+}
+
+
+/* ---------- FOOTER --------------- */ 
+
+.footer{
+    margin: 1%;
+    background-color: transparent;
+    display: flex;
+}
+
+.space{
+    background-color: #282834;
+}
+
+.footer-1{
+    width: 20%;
+    margin-left: 4%;
+}
+
+.name{
+    color: white;
+    display: inline;
+}
+.line-1{
+    border: 2px solid gold;
+    width: 65%;
+
+}
+.footer-2{
+    width: 50%;
+    display: inline;
+}
+
+.footer-3{
+    width: 20%;
+    margin-right: 4%;
+}
+
+.services{
+    color: white;
+}
+.show{
+    color: gold;
+    display: inline;
+
+}
+
+.arrow{
+    width: 8%;
+    height: 8%;
+    float: right;
+    padding-right: 58%;
+}
+
+.circle{
+    background:  #2D2D39;
+    border-radius: 50%;
+    width: 50%;
+    height: 150%;
+    align-items: center;
+    margin-left: 27%;
+
+}
+
+.me{
+    background: transparent;
+    display: inline;
+    position: absolute;
+    width: 35%;
+    height: 50%;
+    margin-left: 8.5%;
+}
+
+.logo{
+    height: 10%;
+    width: 10%;
+    padding: 5px;
+}
+
+/* ----------------Middle 1----------- */
+
+.middle-1{
+    background-color:#403F51;
+    display: flex;
+    margin-left: 2%;
+    margin-right: 2%;
+    position: relative;
+    top: 85px;
+}
+
+.div-logo{
+    width: 25%;
+    padding: 5px;
+}
+
+.biglogos{
+    width: 50%;
+    height: 35%;
+    padding: 16px;
+    background-color: #282834;
+    margin: 1%;
+}
+
+.googlelogo{
+    width: 60%;
+    padding: 16px;
+    height: 35%;
+    margin-bottom: 0.75%;
+    background-color: #282834;
+    margin: 1%;
+}
+
+/* ------------- MIDDLE 2 -------------------- */ 
+
+.Quarterpage{
+    display: flex;
+    background-color: #282834;
+}
+
+
+/* ------------------------ */ 
+
+
+.middle-2{
+    width:45%;
+    display:flex;
+    margin: 2%;
+    
+}
+
+
+
+.content-middle-2{
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 100%;
+
+}
+
+.do-container{
+    display: flex;
+   
+}
+
+.do{
+   width:50%;
+   
+}
+
+.h1{
+    color: white;
+}
+.h2{
+    color: gold;
+}
+
+/* ------------------------ */
+
+.middle-2-other-half{
+    width: 50%;
+    margin: 2%;
+    display: flex;
+}
+
+.images{
+    width: 100%;
+    display: inline;
+}
+
+.profession-img{
+    display: inline;
+    width: 22%;
+    height: 22%;
+    
+}
+
+.text-1{
+   float: right;
+   padding-right: 57%;
+   display: inline;
+
+}
+
+.text-2{
+    float: right;
+    padding-right: 50%;
+    display: inline;
+ 
+}
+
+ .text-3{
+    float: right;
+    padding-right: 49%;
+    display: inline;
+ 
+}
+
+.arrow-2{
+    display: inline;
+    float:right;
+    padding-left: 125%;
+    position: relative;
+    bottom: 63px;
+
+}
+
+.h3{
+    color: white;
+    display: inline;
+}
+
+.line{
+    border: 1px solid #403F51;
+}
+
+/* ------------------------ END PAGE -------------- */ 
+
+.end-page{
+    display: flex;
+    background-color: #282834;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.design{
+    width: 30%;
+    padding: 16px;
+    margin: 2%;
+    height: 100%;
+    background-color: #403F51;
+}
+
+.endpage-image{
+    width: 14%;
+    height: 14%;
+    border-radius: 50%;
+    background-color: #2D2D39;
+  
+}
+
+
+.h2-design{
+    color: white;
+}
+
+.background-color-lower-half{
+    background-color: #282834;
+   
+}
+
+.space-2{
+    height: 20%;
+    width: auto;
+    background: #403F51;
+    opacity: 0.45;
+    position: relative;
+    bottom: 42px;
+}
